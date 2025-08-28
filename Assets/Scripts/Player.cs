@@ -56,7 +56,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
         {
             other.gameObject.SetActive(false);
             collectablesCount++;
-            print("Toplanan Balýk:"+collectablesCount);
+            print("Toplanan Balýk:" + collectablesCount);
         }
     }
 
